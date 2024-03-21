@@ -43,6 +43,9 @@ ul {
 
 header {
   z-index: 10000000000000000;
+  border-bottom: 1px solid black;
+  position: fixed;
+  width: 100%;
 }
 
 a {
