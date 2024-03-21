@@ -1050,7 +1050,7 @@ footer .footer__social-media__container__icons:hover .stroke g {
 .menu-page .reservation {
   height: 35em;
   margin-top: 7em;
-  /*background: url("../../Assets/Media/images/wide-waiter.jpg") no-repeat;*/
+  background: url("../../Assets/Media/images/wide-waiter.jpg") no-repeat;
   background-size: cover;
   position: relative;
 }
